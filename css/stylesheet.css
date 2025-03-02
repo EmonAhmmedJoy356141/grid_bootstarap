@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header, .hero, .body, .foter{
+    background-color: tomato;
+    margin-bottom: 30px;
+}
+.box{
+    background-color: red;
+    min-height: 80px;
+    margin: 10px 0;
+    color: white;
+}
